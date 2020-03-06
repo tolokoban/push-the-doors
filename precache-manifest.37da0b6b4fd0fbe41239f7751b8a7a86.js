@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b435da07d8801f2349d621e70569c38e",
+    "revision": "0d4781dcffc021db165293526cb0bb0e",
     "url": "./index.html"
   },
   {
-    "revision": "b88f733553df3007cb3f",
+    "revision": "b70fa9e9aeba315f75df",
     "url": "./static/css/main.e1d30df3.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.f279d401.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b88f733553df3007cb3f",
-    "url": "./static/js/main.facf9985.chunk.js"
+    "revision": "b70fa9e9aeba315f75df",
+    "url": "./static/js/main.8cfc7658.chunk.js"
   },
   {
     "revision": "b88639a65afb015e2ade",
     "url": "./static/js/runtime-main.df03395a.js"
   },
   {
-    "revision": "d636a8893ef8144f41e3c0e5a8a50041",
-    "url": "./static/media/atlas-level.d636a889.png"
+    "revision": "8cf0704cd716abd8ce3e8ef8069e34e7",
+    "url": "./static/media/atlas-level.8cf0704c.png"
   }
 ]);
