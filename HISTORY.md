@@ -7,3 +7,4 @@ Here we write what we have realized in **50 minutes**.
 
 * Search for a timer countdown package for Atom.  
     * I installed `tomatimer` which will display an alert every 25 minutes.
+* Creation of class `logic/level.ts`. Not done yet.
